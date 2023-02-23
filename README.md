@@ -1,5 +1,5 @@
 # BMI
-BMI calculation
+BMI calculation - calculate your BMI using this simple script 😄
 Simple script that calculates BMI and gives the category based of the user's data
 
 print('Enter your weight:')
