@@ -1,2 +1,0 @@
-# BMI
-BMI calculation
