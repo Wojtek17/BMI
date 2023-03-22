@@ -1,7 +1,0 @@
---Highest deaths per continent
-SELECT continent, MAX(total_deaths)
-FROM coviddeaths
-WHERE continent IS NOT NULL
-GROUP BY continent
-HAVING MAX(total_deaths) >0
-ORDER BY (MAX(total_deaths)) DESC
