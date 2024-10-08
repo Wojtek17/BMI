@@ -1,1 +1,1 @@
-Analysis of football players based on their stats dataset. Data was cleaned and then visualised with 3 charts. Bar, scatter and heatmap.
+Analysis of football players based on their stats dataset. Data was cleaned and then visualised with 3 charts. I tried to analyze what has impact on wages and release clauses of footballers. I built 3 types of charts for this purpose: bar, scatter and heatmap.
